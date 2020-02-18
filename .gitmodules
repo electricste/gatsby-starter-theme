@@ -1,0 +1,3 @@
+[submodule "gatsby-theme-my-theme"]
+	path = gatsby-theme-my-theme
+	url = https://github.com/electricste/gatsby-theme-my-theme.git
